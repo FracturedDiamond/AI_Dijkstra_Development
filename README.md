@@ -1,5 +1,3 @@
 # Dijkstra_Development
 
-![Graph Pic](http://github.com/[FracturedDiamond]/[Dijkstra_Development]/blob/[main]/image.jpg?raw=true)
-
-
+![Graph Pic](https://github.com/FracturedDiamond/Dijkstra_Development/blob/main/Screenshot%202021-03-03%20122213.png)
